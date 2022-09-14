@@ -8,3 +8,6 @@ print c[0]
 a = gets.split
 puts a[0][0] + a[1][0] + a[2][0]
 
+# 解答3
+a = gets.split
+puts "A" + a[1][0] + "C"
